@@ -10,12 +10,12 @@
 - ⚡ Fun fact: ...
 - 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=muni00&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=muni00&show_icons=true&theme=shades-of-purple)
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=muni00&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muni00&theme=synthwave )](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muni00&theme=synthwave )](https://github.com/anuraghazra/github-readme-stats)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muni00&theme=synthwave )](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muni00&theme=shades-of-purple )](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muni00&theme=shades-of-purple )](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muni00&theme=shades-of-purple )](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muni00) 
