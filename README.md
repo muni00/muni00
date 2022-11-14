@@ -1,8 +1,7 @@
 ### Hi, i am Nihal 👋
 
 I am a computer engineer passionate about creating technology and building community to make open source contributing more accessible, uplifting people. Some technologies that I enjoy working with include Kotlin, Java, C# and Databases.<br/>
-curl https://profile-counter.glitch.me/{muni00}/count.svg
-![Visitor Count](https://profile-counter.glitch.me/{muni00}/count.svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muni00&label=Profile%20views&color=ce9927&style=flat" alt="muni00" /> </p>
 
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muni00) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]() 
