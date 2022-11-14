@@ -15,10 +15,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0D4C92?style=flat-quare&labelColor=0D4C92&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/muazzez-nihal-bahadir/)
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=muni00&show_icons=true&theme=shades-of-purple)
-
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=muni00&show_icons=true&theme=shades-of-purple)<br/>
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muni00&theme=shades-of-purple )](https://github.com/DenverCoder1/github-readme-streak-stats)<br/>
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muni00&theme=shades-of-purple )](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muni00&theme=shades-of-purple )](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=muni00&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
