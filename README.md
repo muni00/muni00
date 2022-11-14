@@ -15,6 +15,8 @@
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=muni00&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muni00&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muni00&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muni00&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Sparkline](https://stars.medv.io/muni00/badges.svg)](https://stars.medv.io/muni00/badges)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muni00) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]() 
