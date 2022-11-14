@@ -17,7 +17,7 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=muni00&show_icons=true&theme=shades-of-purple)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muni00&theme=shades-of-purple )](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muni00&theme=shades-of-purple )](https://github.com/DenverCoder1/github-readme-streak-stats)<br/>
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muni00&theme=shades-of-purple )](https://github.com/anuraghazra/github-readme-stats)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=muni00&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
