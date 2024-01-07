@@ -64,22 +64,20 @@
 ###
 
 <div align="center">
-  <img height="235" src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muni00&radius=10&theme=github-dark-dimmed&area=true&order=5" height="360" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=muni00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=muni00&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=muni00&locale=en&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muni00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxOTJkNXoxZXFwOHJoODNmMTNzYjdyZnNxd2VkeTE2dnhxaDd4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G9ToUirG60SOI/giphy.gif"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/muni00/muni00/output/snake.svg" alt="Snake animation" />
+###
+
+<p align="left">Hello World!!</p>
 
 ###
