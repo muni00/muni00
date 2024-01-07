@@ -9,9 +9,3 @@ I am a computer engineer passionate about creating technology and building commu
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0D4C92?style=flat-quare&labelColor=0D4C92&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/muazzez-nihal-bahadir/)
 <p > <img src="https://komarev.com/ghpvc/?username=muni00&label=Profile%20views&color=ce9927&style=flat" alt="muni00" /> </p>
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/4-productive-time.svg)
