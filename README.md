@@ -2,7 +2,7 @@
 
 I am a computer engineer passionate about creating technology and building community to make open source contributing more accessible, uplifting people. Some technologies that I enjoy working with include Kotlin, Java, C# and Databases.<br/>
 
-
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/0-profile-details.svg)
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muni00) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/nihalbahadir/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@nbahadir243) 
