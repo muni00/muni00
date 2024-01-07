@@ -9,19 +9,20 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
   <a href="nbahadir243@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EADBC8&logoColor=black&labelColor=EADBC8&style=flat" height="25" alt="gmail logo"  />
-
+<a/>
   <a href="https://www.hackerrank.com/profile/nbahadir243" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="25" alt="hackerrank logo"  />
-
+<a/>
   <a href="https://www.instagram.com/nihalbahadir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=454545&logoColor=white&labelColor=454545&style=flat" height="25" alt="instagram logo"  />
-
+<a/>
   <a href="https://medium.com/@nbahadir243" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="25" alt="medium logo"  />
- 
+ <a/>
   <a href="https://stackoverflow.com/users/15319933/muni00?tab=profile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="25" alt="stackoverflow logo"  />
-  </div>
+ <a/>
+ </div>
 
 ###
 
