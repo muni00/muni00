@@ -65,9 +65,9 @@
  </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muni00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="230" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muni00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="210" alt="stats graph"  />
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muni00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="230" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muni00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=discord_old_blurple&hide_border=false&order=2" height="210" alt="languages graph"  />
 </div>
 
 ###
