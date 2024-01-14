@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muni00&radius=10&theme=github-dark-dimmed&area=true&order=5" height="360" alt="activity-graph graph"  />
+ [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muni00&theme=radical&hide_border=true)
       
   <img src="https://github-readme-stats.vercel.app/api?username=muni00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
  
