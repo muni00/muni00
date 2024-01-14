@@ -59,7 +59,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio logo"/>
 </div>
-###
 
  <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muni00&theme=radical&hide_border=true" height="250" alt="stats graph"  />
