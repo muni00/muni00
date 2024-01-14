@@ -61,7 +61,7 @@
 </div>
 
  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muni00&theme=radical&hide_border=true" height="250" alt="stats graph"  />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muni00&theme=discord_old_blurple&hide_border=true" height="250" alt="stats graph"  />
  </div>
 
 <div align="center">
