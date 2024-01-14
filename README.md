@@ -61,8 +61,7 @@
 </div>
 ###
 
-  <img src="[https://github-readme-stats.vercel.app/api?username=muni00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muni00&theme=radical&hide_border=true)" height="150" alt="stats graph"  />
- 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muni00&theme=radical&hide_border=true" height="200" alt="stats graph"  />
 ###
 
 <div align="center">
